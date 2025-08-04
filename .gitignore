@@ -1,0 +1,25 @@
+# Virtual environment folders
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw or large files)
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.xlsx
+
+# Logs and reports
+*.log
+*.out
+*.err
+# Environment variables
+.env
+
+# Test outputs
+tests/__pycache__/
